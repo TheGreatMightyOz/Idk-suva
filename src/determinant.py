@@ -1,5 +1,5 @@
 def determinant(maatriks): #Võtab faili nime
-    maatriks = get_file(maatriks)
+    #maatriks = get_file(maatriks)
     y1 = 0
     for a in maatriks:             #Leiab listide mõõdud
         y1+=1

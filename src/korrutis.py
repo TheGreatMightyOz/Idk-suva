@@ -1,6 +1,6 @@
 def korrutis(maatriks1,maatriks2):    #Võtab kahe tekstifaili andmed
-    maatriks1 = get_file(maatriks1)   #Lisab listi
-    maatriks2 = get_file(maatriks2)
+    #maatriks1 = get_file(maatriks1)   #Lisab listi
+    #maatriks2 = get_file(maatriks2)
     y1 = 0
     for a in maatriks1:             #Leiab listide mõõdud
         y1+=1

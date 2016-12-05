@@ -4,4 +4,5 @@ Kooli Pythoni projekt.
 <li>Korrutamine</li>
 <li>Determinant</li>
 <li>Pöördmaatriks</li>
+<li>Trigonomeetrilised tehted maatriksiga</li>
 </ul>
